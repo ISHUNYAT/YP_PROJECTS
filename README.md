@@ -8,7 +8,7 @@
 - Определение возраста покупателей (компьютерное зрение) (Pandas, Numpy, Matplotlib, PIL, Keras);
   [computer_vision](https://github.com/ISHUNYAT/YP_PROJECTS/blob/main/computer_vision/computer_vision_13.ipynb)
   
-- Классификация тональности отзывов интернет-магазина (МО для текстов) (Pandas, Numpy, SKlearn, Re, Nltk, Catboost);
+- Классификация тональности отзывов интернет-магазина (ML для текстов) (Pandas, Numpy, SKlearn, Re, Nltk, Catboost);
   [text_classification](https://github.com/ISHUNYAT/YP_PROJECTS/blob/main/text_classification/comments_toxicity_12.ipynb)
   
 - Прогнозирование заказов такси (временные ряды)(Pandas, Numpy, Matplotlib, SKlearn, Statsmodels, Catboost);
