@@ -3,6 +3,8 @@
 Перечень проектов:
 
 - Определение возраста покупателей (компьютерное зрение) (Pandas, Numpy, Matplotlib, PIL, Keras);
+  https://github.com/ISHUNYAT/YP_PROJECTS/blob/main/computer_vision/computer_vision_13.ipynb
+  
 - Классификация тональности отзывов интернет-магазина (МО для текстов) (Pandas, Numpy, SKlearn, Re, Nltk, Catboost);
 - Прогнозирование заказов такси (временные ряды)(Pandas, Numpy, Matplotlib, SKlearn, Statsmodels, Catboost);
 - Определения стоимости автомобилей (численные методы) (Pandas, Numpy, Matplotlib, Seaborn, SKlearn, Catboost, LightGBM);
