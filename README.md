@@ -2,6 +2,9 @@
 
 Перечень проектов:
 
+- Прогнозирование оттока клиентов для телеком-компании (Pandas, Numpy, Matplotlib? Seaborn, Sklearn, Catboost, Lightgbm);
+  https://github.com/ISHUNYAT/YP_PROJECTS/blob/main/telecom_churn/telecom_14.ipynb
+  
 - Определение возраста покупателей (компьютерное зрение) (Pandas, Numpy, Matplotlib, PIL, Keras);
   https://github.com/ISHUNYAT/YP_PROJECTS/blob/main/computer_vision/computer_vision_13.ipynb
   
